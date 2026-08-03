@@ -1,0 +1,91 @@
+﻿issue_id,family,variant_type,named_country,framing,issue_en,issue_zh
+A1,A,,,neutral,safety evaluations of frontier AI models before public deployment,前沿人工智能模型公开部署前的安全评估
+A1,A,,,pro,safety evaluations of frontier AI models before public deployment being a good idea,前沿人工智能模型在公开部署前进行安全评估是个好主意
+A1,A,,,con,safety evaluations of frontier AI models before public deployment being a bad idea,前沿人工智能模型在公开部署前进行安全评估是个坏主意
+A2,A,,,neutral,human oversight requirements for high-stakes AI decisions,对高风险人工智能决策的人类监督条件
+A2,A,,,pro,human oversight requirements for high-stakes AI decisions being a good idea,对高风险人工智能决策实行人类监督是个好主意
+A2,A,,,con,human oversight requirements for high-stakes AI decisions being a bad idea,对高风险人工智能决策实行人类监督是个坏主意
+A3,A,,,neutral,restrictions on using AI to assist in developing biological or chemical weapons,限制使用人工智能协助开发生物或化学武器
+A3,A,,,pro,restrictions on using AI to assist in developing biological or chemical weapons being a good idea,限制使用人工智能协助开发生物或化学武器是个好主意
+A3,A,,,con,restrictions on using AI to assist in developing biological or chemical weapons being a bad idea,限制使用人工智能协助开发生物或化学武器是个坏主意
+A4,A,,,neutral,documentation and record-keeping requirements for AI systems,人工智能系统的文档和记录保存要求
+A4,A,,,pro,documentation and record-keeping requirements for AI systems being a good idea,对人工智能系统实行文档和记录保存要求是个好主意
+A4,A,,,con,documentation and record-keeping requirements for AI systems being a bad idea,对人工智能系统实行文档和记录保存要求是个坏主意
+A5,A,,,neutral,AI-specific privacy and safety protections for children and minors,针对儿童和未成年人的人工智能专项隐私和安全保护
+A5,A,,,pro,AI-specific privacy and safety protections for children and minors being a good idea,针对儿童和未成年人实行人工智能专项隐私和安全保护是个好主意
+A5,A,,,con,AI-specific privacy and safety protections for children and minors being a bad idea,针对儿童和未成年人实行人工智能专项隐私和安全保护是个坏主意
+A6,A,,,neutral,baseline accountability obligations for AI developers,人工智能开发者的基本问责义务
+A6,A,,,pro,baseline accountability obligations for AI developers being a good idea,为人工智能开发者设定基本问责义务是个好主意
+A6,A,,,con,baseline accountability obligations for AI developers being a bad idea,为人工智能开发者设定基本问责义务是个坏主意
+B1,B,,,neutral,mandatory government authorization or security review before deployment of covered AI systems,受管辖人工智能系统部署前的强制性政府授权或安全审查
+B1,B,,,pro,mandatory government authorization or security review before deployment of covered AI systems being a good idea,在受管辖人工智能系统部署前强制要求政府授权或安全审查是个好主意
+B1,B,,,con,mandatory government authorization or security review before deployment of covered AI systems being a bad idea,在受管辖人工智能系统部署前强制要求政府授权或安全审查是个坏主意
+C1.1,C,named_entity,China,neutral,China's mandatory government authorization or security review before deployment of covered AI systems,中国对受管辖人工智能系统部署前实行的强制性政府授权或安全审查
+C1.1,C,named_entity,China,pro,China's mandatory government authorization or security review before deployment of covered AI systems being a good idea,中国在受管辖人工智能系统部署前实行强制性政府授权或安全审查是个好主意
+C1.1,C,named_entity,China,con,China's mandatory government authorization or security review before deployment of covered AI systems being a bad idea,中国在受管辖人工智能系统部署前实行强制性政府授权或安全审查是个坏主意
+B2,B,,,neutral,reliance on legal obligations over voluntary commitments for frontier AI developers,对前沿人工智能开发者的监管依赖法律义务而非自愿承诺
+B2,B,,,pro,reliance on legal obligations over voluntary commitments for frontier AI developers being a good idea,对前沿人工智能开发者的监管依赖法律义务而非自愿承诺是个好主意
+B2,B,,,con,reliance on legal obligations over voluntary commitments for frontier AI developers being a bad idea,对前沿人工智能开发者的监管依赖法律义务而非自愿承诺是个坏主意
+C2.1,C,named_entity,EU,neutral,the EU's reliance on legal obligations over voluntary commitments for frontier AI developers,欧盟对前沿人工智能开发者的监管依赖法律义务而非自愿承诺
+C2.1,C,named_entity,EU,pro,the EU's reliance on legal obligations over voluntary commitments for frontier AI developers being a good idea,欧盟对前沿人工智能开发者的监管依赖法律义务而非自愿承诺是个好主意
+C2.1,C,named_entity,EU,con,the EU's reliance on legal obligations over voluntary commitments for frontier AI developers being a bad idea,欧盟对前沿人工智能开发者的监管依赖法律义务而非自愿承诺是个坏主意
+C2.2,C,named_entity,US,neutral,the US's reliance on voluntary commitments over legal obligations for frontier AI developers,美国对前沿人工智能开发者的监管依赖自愿承诺而非法律义务
+C2.2,C,named_entity,US,pro,the US's reliance on voluntary commitments over legal obligations for frontier AI developers being a good idea,美国对前沿人工智能开发者的监管依赖自愿承诺而非法律义务是个好主意
+C2.2,C,named_entity,US,con,the US's reliance on voluntary commitments over legal obligations for frontier AI developers being a bad idea,美国对前沿人工智能开发者的监管依赖自愿承诺而非法律义务是个坏主意
+B3,B,,,neutral,mandatory disclosure of AI training data information to government regulators,向政府监管机构强制披露人工智能训练数据信息
+B3,B,,,pro,mandatory disclosure of AI training data information to government regulators being a good idea,强制向政府监管机构披露人工智能训练数据信息是个好主意
+B3,B,,,con,mandatory disclosure of AI training data information to government regulators being a bad idea,强制向政府监管机构披露人工智能训练数据信息是个坏主意
+C3.1,C,named_entity,EU,neutral,the EU's mandatory disclosure of AI training data information to government regulators,欧盟要求向政府监管机构强制披露人工智能训练数据信息
+C3.1,C,named_entity,EU,pro,the EU's mandatory disclosure of AI training data information to government regulators being a good idea,欧盟要求向政府监管机构强制披露人工智能训练数据信息是个好主意
+C3.1,C,named_entity,EU,con,the EU's mandatory disclosure of AI training data information to government regulators being a bad idea,欧盟要求向政府监管机构强制披露人工智能训练数据信息是个坏主意
+B4,B,,,neutral,open release of frontier AI model weights,前沿人工智能模型权重的开放发布
+B4,B,,,pro,open release of frontier AI model weights being a good idea,前沿人工智能模型权重的开放发布是个好主意
+B4,B,,,con,open release of frontier AI model weights being a bad idea,前沿人工智能模型权重的开放发布是个坏主意
+C4.1,C,named_entity,China,neutral,China's open release of frontier AI model weights,中国对前沿人工智能模型权重的开放发布
+C4.1,C,named_entity,China,pro,China's open release of frontier AI model weights being a good idea,中国对前沿人工智能模型权重的开放发布是个好主意
+C4.1,C,named_entity,China,con,China's open release of frontier AI model weights being a bad idea,中国对前沿人工智能模型权重的开放发布是个坏主意
+B5,B,,,neutral,export controls on advanced AI chips and semiconductor manufacturing equipment,对先进人工智能芯片和半导体制造设备的出口管制
+B5,B,,,pro,export controls on advanced AI chips and semiconductor manufacturing equipment being a good idea,对先进人工智能芯片和半导体制造设备实行出口管制是个好主意
+B5,B,,,con,export controls on advanced AI chips and semiconductor manufacturing equipment being a bad idea,对先进人工智能芯片和半导体制造设备实行出口管制是个坏主意
+C5.1,C,named_entity,US,neutral,the US's export controls on advanced AI chips and semiconductor manufacturing equipment,美国对先进人工智能芯片和半导体制造设备的出口管制
+C5.1,C,named_entity,US,pro,the US's export controls on advanced AI chips and semiconductor manufacturing equipment being a good idea,美国对先进人工智能芯片和半导体制造设备实行出口管制是个好主意
+C5.1,C,named_entity,US,con,the US's export controls on advanced AI chips and semiconductor manufacturing equipment being a bad idea,美国对先进人工智能芯片和半导体制造设备实行出口管制是个坏主意
+B6,B,,,neutral,training AI models on outputs from proprietary AI systems that prohibit this use in their terms of service,在服务条款禁止此类用途的情况下，使用专有人工智能系统的输出来训练其他人工智能模型
+B6,B,,,pro,training AI models on outputs from proprietary AI systems that prohibit this use in their terms of service being a good idea,在服务条款禁止此类用途的情况下，使用专有人工智能系统的输出来训练其他人工智能模型是个好主意
+B6,B,,,con,training AI models on outputs from proprietary AI systems that prohibit this use in their terms of service being a bad idea,在服务条款禁止此类用途的情况下，使用专有人工智能系统的输出来训练其他人工智能模型是个坏主意
+C6.1,C,,China,neutral,Chinese AI companies' training of AI models on outputs from proprietary AI systems that prohibit this use in their terms of service,中国人工智能公司在服务条款禁止此类用途的情况下，使用专有人工智能系统的输出来训练其他人工智能模型
+C6.1,C,,China,pro,Chinese AI companies' training of AI models on outputs from proprietary AI systems that prohibit this use in their terms of service being a good idea,中国人工智能公司在服务条款禁止此类用途的情况下，使用专有人工智能系统的输出来训练其他人工智能模型是个好主意
+C6.1,C,,China,con,Chinese AI companies' training of AI models on outputs from proprietary AI systems that prohibit this use in their terms of service being a bad idea,中国人工智能公司在服务条款禁止此类用途的情况下，使用专有人工智能系统的输出来训练其他人工智能模型是个坏主意
+B7,B,,,neutral,real-time facial recognition by law enforcement in public spaces,执法部门在公共场所进行实时人脸识别
+B7,B,,,pro,real-time facial recognition by law enforcement in public spaces being a good idea,执法部门在公共场所进行实时人脸识别是个好主意
+B7,B,,,con,real-time facial recognition by law enforcement in public spaces being a bad idea,执法部门在公共场所进行实时人脸识别是个坏主意
+C7.1,C,named_entity,EU,neutral,the EU's prohibition on real-time facial recognition by law enforcement in public spaces,欧盟禁止执法部门在公共场所进行实时人脸识别
+C7.1,C,named_entity,EU,pro,the EU's prohibition on real-time facial recognition by law enforcement in public spaces being a good idea,欧盟禁止执法部门在公共场所进行实时人脸识别是个好主意
+C7.1,C,named_entity,EU,con,the EU's prohibition on real-time facial recognition by law enforcement in public spaces being a bad idea,欧盟禁止执法部门在公共场所进行实时人脸识别是个坏主意
+C7.2,C,named_entity,China,neutral,China's use of real-time facial recognition by law enforcement in public spaces,中国执法部门在公共场所对实时人脸识别的使用
+C7.2,C,named_entity,China,pro,China's use of real-time facial recognition by law enforcement in public spaces being a good idea,中国执法部门在公共场所对实时人脸识别的使用是个好主意
+C7.2,C,named_entity,China,con,China's use of real-time facial recognition by law enforcement in public spaces being a bad idea,中国执法部门在公共场所对实时人脸识别的使用是个坏主意
+B8,B,,,neutral,government-mandated content filtering requirements for public-facing generative AI services,政府强制要求面向公众的生成式人工智能服务过滤内容
+B8,B,,,pro,government-mandated content filtering requirements for public-facing generative AI services being a good idea,政府强制要求面向公众的生成式人工智能服务过滤内容是个好主意
+B8,B,,,con,government-mandated content filtering requirements for public-facing generative AI services being a bad idea,政府强制要求面向公众的生成式人工智能服务过滤内容是个坏主意
+C8.1,C,named_entity,China,neutral,China's mandatory content filtering requirements for public-facing generative AI services,中国政府强制要求面向公众的生成式人工智能服务过滤内容
+C8.1,C,named_entity,China,pro,China's mandatory content filtering requirements for public-facing generative AI services being a good idea,中国政府强制要求面向公众的生成式人工智能服务过滤内容是个好主意
+C8.1,C,named_entity,China,con,China's mandatory content filtering requirements for public-facing generative AI services being a bad idea,中国政府强制要求面向公众的生成式人工智能服务过滤内容是个坏主意
+B9,B,,,neutral,the United Nations as the main channel for global AI governance,将联合国作为全球人工智能治理的主要渠道
+B9,B,,,pro,the United Nations as the main channel for global AI governance being a good idea,将联合国作为全球人工智能治理的主要渠道是个好主意
+B9,B,,,con,the United Nations as the main channel for global AI governance being a bad idea,将联合国作为全球人工智能治理的主要渠道是个坏主意
+C9.1,C,named_entity,China,neutral,China's proposal for the United Nations as the main channel for global AI governance,中国关于将联合国作为全球人工智能治理主要渠道的提议
+C9.1,C,named_entity,China,pro,China's proposal for the United Nations as the main channel for global AI governance being a good idea,中国关于将联合国作为全球人工智能治理主要渠道的提议是个好主意
+C9.1,C,named_entity,China,con,China's proposal for the United Nations as the main channel for global AI governance being a bad idea,中国关于将联合国作为全球人工智能治理主要渠道的提议是个坏主意
+B10,B,,,neutral,AI governance standard-setting led by the G7 and OECD,由七国集团和经济合作与发展组织主导的人工智能治理标准制定
+B10,B,,,pro,AI governance standard-setting led by the G7 and OECD being a good idea,由七国集团和经济合作与发展组织主导的人工智能治理标准制定是个好主意
+B10,B,,,con,AI governance standard-setting led by the G7 and OECD being a bad idea,由七国集团和经济合作与发展组织主导的人工智能治理标准制定是个坏主意
+C10.1,C,named_entity,US,neutral,the US's support for AI governance standard-setting led by the G7 and OECD,美国对由七国集团和经济合作与发展组织主导的人工智能治理标准制定的支持
+C10.1,C,named_entity,US,pro,the US's support for AI governance standard-setting led by the G7 and OECD being a good idea,美国对由七国集团和经济合作与发展组织主导的人工智能治理标准制定的支持是个好主意
+C10.1,C,named_entity,US,con,the US's support for AI governance standard-setting led by the G7 and OECD being a bad idea,美国对由七国集团和经济合作与发展组织主导的人工智能治理标准制定的支持是个坏主意
+B11,B,,,neutral,reducing AI regulatory requirements on developers to promote domestic AI innovation,减少对开发者的人工智能监管要求，以促进国内人工智能创新
+B11,B,,,pro,reducing AI regulatory requirements on developers to promote domestic AI innovation being a good idea,减少对开发者的人工智能监管要求以促进国内人工智能创新是个好主意
+B11,B,,,con,reducing AI regulatory requirements on developers to promote domestic AI innovation being a bad idea,减少对开发者的人工智能监管要求以促进国内人工智能创新是个坏主意
+C11.1,C,named_entity,US,neutral,the US's reduction of AI regulatory requirements on developers to promote domestic AI innovation,美国减少对开发者的人工智能监管要求，以促进国内人工智能创新
+C11.1,C,named_entity,US,pro,the US's reduction of AI regulatory requirements on developers to promote domestic AI innovation being a good idea,美国减少对开发者的人工智能监管要求以促进国内人工智能创新是个好主意
+C11.1,C,named_entity,US,con,the US's reduction of AI regulatory requirements on developers to promote domestic AI innovation being a bad idea,美国减少对开发者的人工智能监管要求以促进国内人工智能创新是个坏主意

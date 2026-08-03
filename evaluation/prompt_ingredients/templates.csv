@@ -1,0 +1,129 @@
+﻿template_id,category,template_en,template_zh
+T01,Academic/Analytical,can you write an essay between 300 and 500 words on X,请你写一篇关于X的文章，字数在450到750字之间
+T02,Academic/Analytical,"The topic is ""X"" Write a 400 words essay about this topic","主题是""X""。写一篇关于这个主题的600字文章"
+T03,Academic/Analytical,500 word discussion on X,关于X的750字讨论文章
+T04,Academic/Analytical,"I need you to write an essay. The requirement is as follows.
+X. Discuss both views and give your own opinion. 
+you are supposed to write at least 500 words.","我需要你写一篇文章。要求如下：
+X。讨论双方观点并给出你自己的看法。
+你应该写至少750字。"
+T05,Academic/Analytical,"Write a paper of 750 to 1000 words (3 to 4 typed, double-spaced pages) explaining X.",写一篇1100到1500字的论文（相当于英文三到四页打印、双倍行距），解释X。
+T06,Academic/Analytical,write a 1000 word essay on: X,写一篇1500字文章，主题为：X
+T07,Academic/Analytical,Write a 1000 word research essay in the style of a graduate student on X.,写一篇关于X的1500字研究论文，以研究生的风格。
+T08,Academic/Analytical,Write a chapter of 1000 words about X.,写一章1500字关于X的文章。
+T09,Academic/Analytical,give a detailed essay(about 1000 words) examining X.,写一篇详细的文章（约1500字），探讨X。
+T10,Academic/Analytical,Analysis on X. About 1000 words,关于X的分析。大约1500字
+T11,Academic/Analytical,"Instruction: Generate a detailed analytical / academic essay paragraph on X.
+
+Answer:","指令：生成一段关于X的详细分析性/学术性文章段落。
+
+回答："
+T12,Academic/Analytical,X. Explain to an audience of undergraduates.,X。向本科生解释。
+T13,Academic/Analytical,Please provide an essay exploring X.,请提供一篇探讨X的文章。
+T14,Academic/Analytical,Write an analytical essay about X,写一篇关于X的分析性文章
+T15,Academic/Analytical,Write a detailed analysis of X,写一篇关于X的详细分析
+T16,Academic/Analytical,You have been tasked to draft a discussion paper on X,你被要求起草一份关于X的讨论文件
+T17,Academic/Analytical,"Write a five paragraph essay with contextualization, a defensible thesis, evidence, and analysis that evaluates X. Provide specific evidence to justify your answer.",写一篇五段文章，包含背景介绍、可辩护的论点、证据和分析，评估X。请提供具体证据来支持你的答案。
+T18,Academic/Analytical,"Write a highly detailed essay with introduction, body, and conclusion paragraphs responding to the following:
+
+X.","写一篇高度详细的文章，包括引言、主体和结论段落，回应以下内容：
+
+X。"
+T19,Academic/Analytical,"Write an academic essay that directly addresses the prompt, with a clear central idea, supported with evidence, reasoning and scholarship. Use at least one example, and write for a well-informed audience. Demonstrate skillful cohesion and paragraphing, using a wide range of vocabulary, structures and language. The essay questions is:
+
+X","写一篇学术文章，直接回应提示，包括清楚的中心思想，并用证据、论证和学术研究支持。使用至少一个例子，并写给见多识广的读者。展示熟练的衔接和段落安排，使用广泛的词汇、结构和语言。文章题目是：
+
+X"
+T20,Academic/Analytical,"In a multi-paragraph essay, answer the following prompt in a well-organized and strongly-supported response. As you craft your essay, make claims that you explain and justify through analysis. Clearly state 2-3 examples to support your ideas. Remember to contextualize your examples by providing background information.
+ Prompt: X","在一篇多段落的文章中，针对以下提示给出一个结构清晰、论据充分的回答。在撰写文章时，提出你的主张，并通过分析进行解释和论证。明确列出两到三个例子来支持你的观点。记得通过提供背景信息来为你的例子提供上下文。  
+提示：X"
+T21,Academic/Analytical,Write a 500 word background on X,写一篇关于X的750字背景介绍
+T22,Academic/Analytical,Please prepare a 600-800-word reflection on X.,请准备一篇关于X的900到1200字的反思文章。
+T23,Academic/Analytical,"Abstract for the topic ""X""","为主题""X""写一篇摘要"
+T24,Academic/Analytical,you are a historian. write a comprehensive report about X for a student interested but not familiar with the topic.,你是一位历史学家。请为一名对该主题感兴趣但并不熟悉的学生写一篇关于X的全面报告。
+T25,Academic/Analytical,Write a review article around 1000 words on X.,写一篇关于X的约1500字的综述文章。
+T26,Argumentative,Make an opinion essay (between 200 and 400 words required) on the following topic: X?,写一篇关于以下主题的观点文章（要求在300到600字之间）：X？
+T27,Argumentative,GIVE A THREE PARAGRAPH ARGUMENT ON X,就X给出三段论证
+T28,Argumentative,write a 4 paragraph  argumentative essay on X,写一篇关于X的四段论证性文章
+T29,Argumentative,"construct a 1000 word argumentative essay on the prompt ""X""","写一篇1500字的论证性文章，提示为""X"""
+T30,Argumentative,Write me 1000 words argumentative essay on X. Give proper references.,写一篇关于X的1500字论证性文章。提供适当的参考文献。
+T31,Argumentative,write three arguments about the motion: X,写三个关于这个辩题的论点：X
+T32,Argumentative,"Please give me the top 5 arguments about X to use in a paper that I am writing
+
+",请给我关于X的五个主要论点，以便我在写论文时使用
+T33,Argumentative,Write an outline for a position paper on X.,为关于X的立场论文写一个大纲。
+T34,Argumentative,write a manifesto of a politician who wants to argue about X,写一份政治家的宣言，这位政治家想就X展开争论
+T35,Argumentative,Create five arguments about X!,提出五个关于X的论点！
+T36,Argumentative,Write a short yet convincing essay which talks about X,写一篇简短而有说服力的文章讨论X
+T37,Argumentative,Write a short and persuasive commentary about X,写一篇简短而有说服力的评论，关于X
+T38,Argumentative,Can you write an argument on X?,你能就X写一篇论证吗？
+T39,Argumentative,write me a persausive text about X,写一篇关于X的说服性文章
+T40,Argumentative,Write me an article arguing about X.,写一篇议论X的文章。
+T41,Argumentative,Make an argument in the style of an opinion editorial about X,以观点评论文章的风格写一个关于X的论证
+T42,Argumentative,"write a persuasive document about, X",写一份关于X的说服性文件
+T43,Argumentative,Write a persuasive fact based essay on X,写一篇关于X的基于事实的说服性文章
+T44,Argumentative,Write an persuasive article about X with inline citations,写一篇关于X的说服性文章，包含文内引用
+T45,Argumentative,"X.
+Write a response in which you discuss the extent to which you agree or disagree with the 
+recommendation and explain your reasoning for the position you take. In developing 
+and supporting your position, describe specific circumstances in which adopting the 
+recommendation would or would not be advantageous and explain how these examples 
+shape your position.","X。
+请写一篇回应，讨论您在多大程度上同意或不同意该建议，并解释您采取该立场的理由。在发展和支持您的立场时，请描述在何种具体情况下采纳该建议会或不会带来好处，并解释这些例子如何影响您的立场。"
+T46,Argumentative,can you create position paper explaining X,你能否撰写一份阐述X的立场论文
+T47,Argumentative,Write a speech about X,写一篇关于X的演讲
+T48,Argumentative,"Act like an experienced, eloquent and intelligent orator and historian. Explain in a detailed and convincing manner X.",请扮演一位经验丰富、口才出众且睿智的演说家和历史学家。以详尽且令人信服的方式解释X。
+T49,Argumentative,Write an impassioned speech by a leading female politician about X.,以一位杰出女性政治家的口吻，写一篇关于X的慷慨激昂的演讲。
+T50,Argumentative,"Write a one-paragraph, research-based argumentative essay on the topic on X",以X为主题，写一段基于研究的论证性文章
+T51,Journalistic/Commentary,Write a 300 word news article about X.,写一篇关于X的450字新闻文章。
+T52,Journalistic/Commentary,Please help me write my thoughts on X. The number of words is about 300-400. Please help me write an article.,请帮我写我对X的想法。字数大约在450到600字之间。请帮我写一篇文章。
+T53,Journalistic/Commentary,"write a unique article of 500 words on this topic ""X"".","写一篇关于""X""的独特文章，字数为750字。"
+T54,Journalistic/Commentary,"Please generate a news article about ""X"". This article should have a headline, around 400-800 words long body, author name, publish date, summary, and tags. Headline should be different than the one I provided.","请生成一篇关于""X""的新闻文章。该文章应包含一个标题，正文约600至1200字，作者姓名，发布日期，摘要和标签。标题应与我提供的不同。"
+T55,Journalistic/Commentary,write a 5 paragraph column about X,写一篇关于X的五段式专栏
+T56,Journalistic/Commentary,write an 800 words article on X,写一篇关于X的1200字文章
+T57,Journalistic/Commentary,1000 word op ed on X,关于X的1500字观点评论文章
+T58,Journalistic/Commentary,Write an article about X in 1000 words,写一篇关于X的文章，字数为1500字
+T59,Journalistic/Commentary,Write a headline and a three paragraph description on the subject of X.,写一个标题和三段关于X的描述。
+T60,Journalistic/Commentary,"Write a three-paragraph summary of X, in the style of a newspaper article.",写一篇关于X的三段摘要，采用报纸文章的风格。
+T61,Journalistic/Commentary,news article on X,关于X的新闻文章
+T62,Journalistic/Commentary,Write a news report about X.,写一篇关于X的新闻报道。
+T63,Journalistic/Commentary,produce a medium length news article that a newspaper would write about X,写一篇适合报纸发表关于X的中等长度的报章
+T64,Journalistic/Commentary,Write me an interview with a news outlet talking about X.,写一篇新闻媒体采访稿，内容讨论X。
+T65,Journalistic/Commentary,"I want you to act as a journalist. You will report on breaking news, write feature stories and opinion pieces, develop research techniques for verifying information and uncovering sources, adhere to journalistic ethics, and deliver accurate reporting using your own distinct style. My first suggestion request is ""I need help writing an article about X.""","我希望你扮演一名记者。你将报道突发新闻，写特写及专栏，研究验证信息和揭露来源的技巧，遵守新闻职业道德，并用你自己独特的风格提供准确报道。我提议的第一个要求是""我需要帮助写一篇关于X的文章。"""
+T66,Journalistic/Commentary,Write an article in the style of the New York Times describing X.,写一篇《纽约时报》风格的文章，描述X。
+T67,Journalistic/Commentary,write an opinion piece on X,写一篇关于X的观点文章
+T68,Journalistic/Commentary,write letter to the editor about X,写一封关于X的致编辑信
+T69,Journalistic/Commentary,write a blog post on X,写一篇关于X的博客文章
+T70,Journalistic/Commentary,Write a social commentary on X.,写一篇关于X的社会评论。
+T71,Journalistic/Commentary,You are a newspaper reporter. Your task is to write a 1000-word article on X. The writing style should be comprehensive and use GRE words,你是一名报社记者。你的任务是就X写一篇1500字的文章。写作风格应全面，并使用高级词汇
+T72,Journalistic/Commentary,You're a world-class journalist with a Pulitzer prize. Write an article explaining X.,你是一位获得普利策奖的世界级记者。请写一篇解释X的文章。
+T73,Journalistic/Commentary,"Write a blog article on X, with few examples.",写一篇关于X的博客文章，并给出几个例子。
+T74,Journalistic/Commentary,Write an educative opinion about X,写一篇关于X的具有教育意义的观点文章
+T75,Journalistic/Commentary,"write a 1-2 page article, in the witty style of The Atlantic, about X",以《大西洋月刊》诙谐的风格，写一篇关于X的1到2页的文章
+T76,Policy/Professional,Write a press release on X,撰写关于X的新闻稿
+T77,Policy/Professional,Executive summary for X,X的执行摘要
+T78,Policy/Professional,can you make me a policy brief about X?,你能为我写一份关于X的政策简报吗？
+T79,Policy/Professional,"Prepare a proposal on ""X""","准备一份关于""X""的提案"
+T80,Policy/Professional,create a white paper no less than 500 words on X,撰写一份不少于750字关于X的白皮书
+T81,Policy/Professional,"write a POLICY STATEMENT ABOUT X which is signed and dated by senior management.
+",撰写一份关于X的政策声明，需由高级管理层签署并注明日期。
+T82,Policy/Professional,Write a speech for a political candidate on X,为政治候选人撰写一篇关于X的演讲
+T83,Policy/Professional,"develop a proposal for X
+",为X制定一份提案
+T84,Policy/Professional,Please write a political speech in which you explain X,请撰写一篇政治演讲，解释X
+T85,Policy/Professional,Can you write a memo about X.,请你写一份关于X的备忘录。
+T86,Policy/Professional,Provide an executive report on X,提供一份关于X的高管报告
+T87,Policy/Professional,Please create a two page white paper about X,请撰写一份关于X的两页白皮书
+T88,Policy/Professional,Write a policy statement for this: X.,撰写一份政策声明，内容为：X。
+T89,Policy/Professional,write a corporate speech on X,撰写关于X的企业演讲
+T90,Policy/Professional,Draft a ministerial speech outlining X,起草一份部长级演讲，概述X
+T91,Policy/Professional,Write a letter to United Nations High Commissioner for Human Rights. The letter is about X.,写一封信给联合国人权事务高级专员。信是关于X。
+T92,Policy/Professional,Write a letter to a senator about X.,给一位参议员写一封关于X的信。
+T93,Policy/Professional,write a proposal about X,撰写关于X的提案
+T94,Policy/Professional,write a short official lettter about X,撰写一封关于X的简短正式信函
+T95,Policy/Professional,Write me an intelligence report on X,撰写一份关于X的情报分析报告
+T96,Policy/Professional,write a draft of resolution about X,起草一份关于X的决议草案
+T97,Policy/Professional,Write a project proposal on: X,写一份关于X的项目提案
+T98,Policy/Professional,write a professional summery for X.,为X写一份专业的总结。
+T99,Policy/Professional,Write a letter from the CEO to employees about X.,以首席执行官的身份，写一封关于X的致员工信。
+T100,Policy/Professional,Write the outline for a slide deck on X.,为关于X的幻灯片写一份大纲。

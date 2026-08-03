@@ -1,0 +1,10 @@
+matplotlib
+numpy
+openpyxl
+pandas
+pyarrow
+scipy
+scikit-learn
+sentence-transformers
+statsmodels
+jieba
