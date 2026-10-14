@@ -4,3 +4,4 @@ __pycache__/
 .env
 evaluation/analysis/outputs/
 evaluation/analysis/responses/
+evaluation/runs/

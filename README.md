@@ -12,7 +12,11 @@ evaluation/
   analysis/               # master.csv and shared analysis utilities
   dataset_construction/   # issue grounding and RQ4 evidence records
   prompt_ingredients/     # final English and Chinese issues/templates
-  scripts/06_analysis/    # analysis and thesis-figure scripts
+  scripts/
+    03_generate_prompts/  # templates x issues x languages -> 6,000 prompts
+    04_collect_responses/ # model calls via OpenRouter
+    05_stance_judge/      # Gemini 2.5 Flash stance judge (EN and ZH rubrics)
+    06_analysis/          # master.csv builder, analysis and figure scripts
 ```
 
 `evaluation/analysis/master.csv` is the analysis dataset. It contains one row per
@@ -57,6 +61,24 @@ df = resp.merge(master, on=["rep", "response_id"], suffixes=("", "_m"))
 
 Responses were generated in July 2026 at temperature 1.0 with `max_tokens` 4096 and
 no system prompt, and judged by `google/gemini-2.5-flash` at temperature 0.
+
+## Data-generation pipeline
+
+These scripts produced the responses and stances above. Each run writes to
+`evaluation/runs/<run_id>/`. Stages 04 and 05 call OpenRouter and need an
+`OPENROUTER_API_KEY` in a `.env` file at the repository root.
+
+```bash
+python evaluation/scripts/03_generate_prompts/a_generate_prompts.py --run-id real_r1
+python evaluation/scripts/04_collect_responses/a_collect_responses.py --run-id real_r1
+python evaluation/scripts/05_stance_judge/a_run_stance_judge.py --run-id real_r1
+python evaluation/scripts/06_analysis/i_build_master_dataset.py  # pools real_r1-r3
+```
+
+Stage 03 is deterministic and reproduces the published prompts exactly. Stages 04
+and 05 depend on hosted models, so re-running them gives new samples rather than
+identical outputs. All coding decisions behind `master.csv` (origin map, refusal
+handling, polarity remap for reversed C-variants) live in `i_build_master_dataset.py`.
 
 ## Reproducing the analysis
 
