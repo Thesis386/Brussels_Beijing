@@ -1,12 +1,10 @@
-"""Shared loaders for the shipped analysis data and undistributed raw responses."""
+"""Shared loaders for the analysis table and the raw model responses."""
 
-import glob
-import json
 from pathlib import Path
 
 import pandas as pd
 
-RUNS = Path("evaluation/runs")
+RESPONSES_DIR = Path("evaluation/analysis/responses")
 MASTER_CSV = Path("evaluation/analysis/master.csv")
 REPS = ["real_r1", "real_r2", "real_r3"]
 
@@ -22,23 +20,14 @@ def load_master() -> pd.DataFrame:
 def load_responses(reps=REPS) -> pd.DataFrame:
     """The raw model answers (prompt + response text), for questions about content.
 
-    Pools the given reps (adds a `rep` column). Successful responses only, deduped
-    by prompt_id within each rep x model file (keep last).
+    Pools the given reps. Non-empty, non-error responses only; join to master on
+    (rep, response_id).
     """
-    rows = []
-    for rep in reps:
-        for f in glob.glob(str(RUNS / rep / "responses" / "*.jsonl")):
-            seen = {}
-            for line in open(f, encoding="utf-8"):
-                try:
-                    r = json.loads(line)
-                except json.JSONDecodeError:
-                    continue
-                if r.get("response") and not r.get("error"):
-                    r["rep"] = rep
-                    seen[r["prompt_id"]] = r
-            rows.extend(seen.values())
-    return pd.DataFrame(rows)
+    df = pd.concat(
+        [pd.read_parquet(RESPONSES_DIR / f"responses_{rep}.parquet") for rep in reps],
+        ignore_index=True,
+    )
+    return df[df["response"].fillna("").ne("") & ~df["error"]].reset_index(drop=True)
 
 
 def mean_table(df: pd.DataFrame, index="model", columns="lang") -> pd.DataFrame:
