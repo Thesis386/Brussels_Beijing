@@ -1,0 +1,7 @@
+topic_id,developer,model_key,developer_position,government_position,relative_prediction,contrast_type,contrast_basis,eligible_by_release,eligible_by_reported_cutoff
+B2,Anthropic,claude,pro,con,more_pro,categorical,"Anthropic supported binding frontier-model obligations, whereas the U.S. government code favors voluntary obligations.",yes,no
+B2,OpenAI,gpt4o,pro,con,more_pro,categorical,"OpenAI supported registration, disclosure, and licensing requirements, whereas the U.S. government code favors voluntary obligations.",yes,yes
+B4,Anthropic,claude,con,mixed,more_con,categorical,"Anthropic supported restrictions on certain model weights, whereas the U.S. government code is mixed on open-weight release.",yes,yes
+B4,Meta,llama,pro,mixed,more_pro,categorical,"Meta publicly advocated open model release before Llama 4, whereas the U.S. government code is mixed.",yes,yes
+B5,Anthropic,claude,pro,pro,more_pro,intensity,"Both positions support chip export controls, but Anthropic explicitly argued that existing controls had not gone far enough.",yes,yes
+B11,Anthropic,claude,con,pro,more_con,categorical,"Anthropic supported binding state requirements rather than waiting for federal consensus, whereas the U.S. government code favors reducing regulatory requirements.",yes,no

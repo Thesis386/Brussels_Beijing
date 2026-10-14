@@ -24,7 +24,7 @@ Writes:
   <run_dir>/stances/all_stances.csv — compact table across models for analysis (stage 06)
 
 Usage (from project root):
-  python evaluation/scripts/pipeline/stance_judge.py --run-id real_r1
+  python evaluation/scripts/05_stance_judge/stance_judge.py --run-id real_r1
   # judges every model found in <run_dir>/responses/; --models to subset; --limit N for a smoke test
 
 Judge selection (run BEFORE full judging): give each candidate judge the SAME seeded
