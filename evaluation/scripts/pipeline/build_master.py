@@ -21,7 +21,7 @@ that notebooks cannot disagree with each other. Writes:
   evaluation/analysis/master.csv
 
 Usage (from project root):
-  .venv/bin/python evaluation/scripts/06_analysis/i_build_master_dataset.py
+  .venv/bin/python evaluation/scripts/pipeline/build_master.py
 """
 
 from pathlib import Path

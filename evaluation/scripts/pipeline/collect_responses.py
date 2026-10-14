@@ -24,8 +24,8 @@ Writes:
 
 Usage (from project root):
   # real eval, one repetition (repeat with --run-id real_r2, real_r3, ...):
-  python evaluation/scripts/03_generate_prompts/a_generate_prompts.py --run-id real_r1
-  caffeinate -is .venv/bin/python evaluation/scripts/04_collect_responses/a_collect_responses.py \
+  python evaluation/scripts/pipeline/generate_prompts.py --run-id real_r1
+  caffeinate -is .venv/bin/python evaluation/scripts/pipeline/collect_responses.py \
       --run-id real_r1 --parallel-models
   # prompts.csv must already exist (stage 03) — this script never generates it.
   # Before any API call it prints the full plan (models, counts, temp, cost surface)

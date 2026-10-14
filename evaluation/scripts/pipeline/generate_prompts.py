@@ -24,7 +24,7 @@ prompt_id = "<issue_id>_<template_id>_<lang>"   e.g. A1_T07_zh
 neutral; a multi-framing run via --framings keeps both to avoid id collisions)
 
 Usage (from project root):
-  python evaluation/scripts/03_generate_prompts/a_generate_prompts.py --run-id real_r1
+  python evaluation/scripts/pipeline/generate_prompts.py --run-id real_r1
   # --templates N samples N templates (fixed seed, reproducible); omit for all 100
   # --framings neutral,pro,con to also generate pro/con prompts (not the default design)
 """
